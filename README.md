@@ -3,7 +3,7 @@ Quick and easy auctions.
 
 ## Features that work so far
 + Register an account
-+ Login / Logout
++ Login/Logout
 + Create auctions
 + Bid on auctions
 + Update bid
@@ -13,3 +13,5 @@ Quick and easy auctions.
 + View "My bids"
 + Auction resolution
 + Search for Products
+
+WELCOME TO THE UNIVERSE OF ZOTVERSE!
